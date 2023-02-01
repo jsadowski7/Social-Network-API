@@ -26,7 +26,7 @@ No tests written for this project!
 Currently not accepting contributions to the repo.
 
 ## Walkthrough Video
-:
+https://drive.google.com/file/d/1QY3vAmYqQRBzknMgGpN4YmftVUp6Vl-X/view
 
 
 ## Mock-Up
